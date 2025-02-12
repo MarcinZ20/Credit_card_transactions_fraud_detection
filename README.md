@@ -3,7 +3,9 @@
 
 The project contains exploratory data analysis of credit card transactions dataset with ML model for detecting fraudlent transactions.
 
-
+### Google Colab project
+For the ease of use, as well as some problems related to showing geographic maps on github when uploading Jupyter Notebooks, **it's recommended to download source files from Google Drive.**
+Link to the source code on Google Colab: [code](https://drive.google.com/drive/folders/1N85ezgLSBzA28MsCP45qmbNRB3Nbr7ge?usp=sharing)
 
 
 ## Run Locally
